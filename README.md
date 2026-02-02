@@ -37,8 +37,20 @@
   
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+  
+</div>
+
+<h2 align="center"> other </h2> 
+
+  ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+  ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  
 </div>
 
 ---
@@ -60,7 +72,7 @@
   <ol> 
     <li> <strong> https://github.com/brunnoronaldo-ti/GitPulse </strong> </li>
     <li> <strong> https://brunnoronaldo-ti.github.io/adonay-site/ </strong></li> 
-    <li> <strong> menu-interativo(portugol) </strong> </li> 
+    <li> <strong> https://github.com/brunnoronaldo-ti/learning-zone/blob/main/mini-projects/jogo-da-forca.py </strong>
   </ol> 
 </div
 
