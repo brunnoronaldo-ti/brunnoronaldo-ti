@@ -58,8 +58,8 @@
 <h1 align="center"> projetos mais relevantes <br> (atualizado sempre)</h1> 
 <div> 
   <ol> 
-    <li>https://brunnoronaldo-ti.github.io/adonay-site/</li>
-    <li> <strong> landing-page-cards </strong> </li> 
+    <li> <strong> https://github.com/brunnoronaldo-ti/GitPulse </strong> </li>
+    <li> <strong> https://brunnoronaldo-ti.github.io/adonay-site/ </strong></li> 
     <li> <strong> menu-interativo(portugol) </strong> </li> 
   </ol> 
 </div
