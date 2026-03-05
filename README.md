@@ -1,4 +1,10 @@
 <h1 align="center">
+  👋hi! i am Brunno 👋 <br>
+  Back-end in training <br>
+  Brazil | 🇧🇷
+</h1>
+
+<h1 align="center">
   👋Olá! Eu sou o Brunno 👋 <br>
   Back-end em formação <br>
   Brasil | 🇧🇷
@@ -21,6 +27,14 @@
 ---
 
 <section align="left">
+   <h1> ✨about me✨ </h1>
+  <p>
+   From a young age I've always had a passion for technology, and today I'm realizing that dream by finally being able to program
+  and learn more about this vast technological world. My goal is to study to achieve better conditions for myself
+  and my family. Currently studying Python and HTML, with the goal of becoming a committed back-end developer
+  focused on improving a little every day.
+  </p>
+  
   <h1> ✨sobre mim✨ </h1>
   <p>
     Desde pequeno sempre tive paixão por tecnologia, e hoje estou realizando esse sonho podendo finalmente programar 
@@ -33,7 +47,7 @@
 ---
 
 <div>
- <h2 align="center"> ⭐tecnologias⭐ </h2> 
+ <h2 align="center"> ⭐technologies⭐ </h2> 
   
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -57,17 +71,17 @@
 
 ```mermaid
   graph TD
-    A[lógica de programação] --> B{python}
+    A[programming logic] --> B{python}
     B --> C[DJANGO or FLASK]
     B --> D[HTML & CSS]
-    C --> E[PROJETOS REAIS]
+    C --> E[REAL PROJECTS]
     D --> E
     D --> F{JavaScript}
     F --> E
 ```
 ---
 
-<h1 align="center"> projetos mais relevantes <br> (atualizado sempre)</h1> 
+<h1 align="center"> most relevant projects </h1> 
 <div> 
   <ol> 
     <li> <strong> https://github.com/brunnoronaldo-ti/GitPulse </strong> </li>
