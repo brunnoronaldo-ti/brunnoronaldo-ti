@@ -84,9 +84,9 @@
 <h1 align="center"> most relevant projects </h1> 
 <div> 
   <ol> 
+    <li> <strong> https://github.com/brunnoronaldo-ti/MedWatch </strong> </li>
     <li> <strong> https://github.com/brunnoronaldo-ti/GitPulse </strong> </li>
     <li> <strong> https://brunnoronaldo-ti.github.io/adonay-site/ </strong></li> 
-    <li> <strong> https://github.com/brunnoronaldo-ti/learning-zone/blob/main/mini-projects/jogo-da-forca.py </strong>
   </ol> 
 </div
 
