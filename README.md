@@ -85,8 +85,8 @@
 <div> 
   <ol> 
     <li> <strong> https://github.com/brunnoronaldo-ti/MedWatch </strong> </li>
+    <li> <strong> https://github.com/brunnoronaldo-ti/Aether-Assistant- </strong></li> 
     <li> <strong> https://github.com/brunnoronaldo-ti/GitPulse </strong> </li>
-    <li> <strong> https://brunnoronaldo-ti.github.io/adonay-site/ </strong></li> 
   </ol> 
 </div
 
